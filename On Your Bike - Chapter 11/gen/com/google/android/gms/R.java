@@ -8,6 +8,7 @@ package com.google.android.gms;
 
 public final class R {
 	public static final class attr {
+		public static final int cameraBearing2 = 0x7f010001;
 		public static final int cameraBearing = 0x7f010001;
 		public static final int cameraTargetLat = 0x7f010002;
 		public static final int cameraTargetLng = 0x7f010003;
