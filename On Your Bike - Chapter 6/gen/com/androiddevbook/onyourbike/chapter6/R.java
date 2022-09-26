@@ -15,6 +15,7 @@ public final class R {
         public static final int timer_text_size=0x7f060000;
     }
     public static final class drawable {
+        public static final int num = 111;
         public static final int btn_check_holo_light=0x7f020000;
         public static final int btn_check_off_disabled_focused_holo_light=0x7f020001;
         public static final int btn_check_off_disabled_holo_light=0x7f020002;
